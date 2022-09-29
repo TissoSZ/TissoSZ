@@ -26,6 +26,6 @@
   <a href="https://discord.gg/wghJDjgy3H" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
   
-<div align="center"><br>
+
   ![snake gif](https://github.com/TissoSZ/TissoSZ/blob/output/github-contribution-grid-snake.svg)
-</div>
+
