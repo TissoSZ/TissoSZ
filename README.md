@@ -2,9 +2,10 @@
   <h1>Olá! Sou o Matheus 😎</h1>
 </div>
 <img align="right" width="200" height="150" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47g66dhwgc1tx1226el5lxrsjmpc652nnclign9bf2&rid=giphy.gif&ct=g" />
-<div align="center">
+<div align="center"><br>
   <p>Recentemente comecei a fazer faculdade de sistemas e tenho grandes expectativas de aprendizado na área de programação, até o momento tive contato com Python, HTML, CSS, JavaScript e SQL Server e é uma grande satisfação aprender a programar nessa linguagem. Como ainda estou começando nesta caminhada tenho certeza que posso aprender cada vez mais, para assim um dia atingir meu objetivo de trabalhar com programação de jogos!</p>
 </div>
+<br>
 <br>
 <br>
 <div align="center"><br>
