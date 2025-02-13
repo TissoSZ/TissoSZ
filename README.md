@@ -3,7 +3,19 @@
 </div>
 <img align="right" width="180" height="130" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47g66dhwgc1tx1226el5lxrsjmpc652nnclign9bf2&rid=giphy.gif&ct=g" />
 <div align="center"><br>
-  <p>Recentemente comecei a fazer faculdade de sistemas e tenho grandes expectativas de aprendizado na área de programação, até o momento tive contato com Python, HTML, CSS, JavaScript e SQL Server e é uma grande satisfação aprender a programar nessa linguagem. Como ainda estou começando nesta caminhada tenho certeza que posso aprender cada vez mais, para assim um dia atingir meu objetivo de trabalhar com programação de jogos!</p>
+  <p>👋 Hey! Sou o Tisso
+
+Sou um desenvolvedor backend focado em Java, SQL e integrações de sistemas. Atualmente trabalho na Supera Sistemas, onde desenvolvo soluções para o setor de engenharia e construção.
+
+Aqui você vai encontrar projetos relacionados a Java, SQL, automação e otimização de código. Sempre buscando aprender e explorar novas tecnologias!
+
+📌 Áreas de interesse:
+
+Desenvolvimento Backend
+Banco de Dados e Otimização SQL
+APIs e Integrações
+Exploração de novas tecnologias
+🚀 Vamos construir algo incrível juntos!</p>
 </div>
 <br>
 <br>
@@ -11,14 +23,6 @@
   <a href="https://github.com/TissoSZ">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=TissoSZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TissoSZ&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
- <div align="center"><br>
-   <img align="center" alt="Tisso-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-   <img align="center" alt="Tisso-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-   <img align="center" alt="Tiss-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-   <img align="center" alt="Tisso-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="center" alt="Tisso-SQK" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
   
 <div align="center"><br>
