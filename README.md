@@ -1,33 +1,70 @@
 # Matheus Espindola dos Santos
 
-**Desenvolvedor Java com foco em backend, APIs REST e sistemas corporativos.**
+**Desenvolvedor Java | Backend | Spring Boot | Sistemas Corporativos**
 
-Atuo na **Supera Sistemas desde fevereiro de 2024**, participando do desenvolvimento, manutenção e evolução de aplicações corporativas, implementação de funcionalidades e integração entre sistemas.
+Sou desenvolvedor de software com foco no ecossistema Java, desenvolvimento backend e construção de aplicações corporativas.
 
-Minha experiência profissional inclui **Java, Hibernate, PostgreSQL, SQL, JSF e PrimeFaces**. Também participo do desenvolvimento do novo sistema da empresa, com **Spring Boot no backend e Angular no frontend**.
+Atuo na **Supera Sistemas desde fevereiro de 2024**, trabalhando no desenvolvimento, manutenção e evolução de sistemas, implementação de funcionalidades e integração entre aplicações.
 
-## Tecnologias com experiência profissional
+Minha experiência inclui **Java, Hibernate, PostgreSQL, SQL, JSF e PrimeFaces**. Também participo do desenvolvimento de um novo sistema da empresa, utilizando **Spring Boot no backend e Angular no frontend**.
 
-- **Backend e integrações:** Java, Spring Boot e APIs REST.
-- **Persistência e dados:** Hibernate, PostgreSQL e SQL.
-- **Aplicações web:** Angular, JSF e PrimeFaces.
+Busco evoluir continuamente em arquitetura de software, desenvolvimento de APIs, testes automatizados e boas práticas de engenharia.
 
-## Projetos acadêmicos
+## Tecnologias
 
-Estes projetos demonstram estudos em Java e comunicação entre aplicações. Seus READMEs documentam o escopo, as instruções de execução e as limitações.
+**Backend**
+- Java
+- Spring Boot
+- Hibernate
+- APIs REST
 
-- [Jogo de Soma com Ranking](https://github.com/TissoSZ/EJB_TAREFAMD_MATHEUS_ESPINDOLA_DOS_SANTOS): aplicação Jakarta EE com EJB, JSF e comunicação assíncrona via JMS/MDB.
-- [Simulação de Apuração com Java RMI](https://github.com/TissoSZ/urna-eletronica-rmi-java): comunicação cliente/servidor, contrato remoto e estado compartilhado em memória.
+**Banco de dados**
+- PostgreSQL
+- SQL
 
-## Formação
+**Frontend**
+- Angular
+- TypeScript
+- JSF
+- PrimeFaces
 
-- **Análise e Desenvolvimento de Sistemas — Centro Universitário de Pato Branco · UNIDEP:** 2021–2024, concluído.
-- **Pós-graduação em Desenvolvimento de Software em Java — Universidade Tecnológica Federal do Paraná · UTFPR:** 2025–2026, em andamento, com conclusão prevista para dezembro de 2026.
+**Ferramentas e desenvolvimento**
+- Git e GitHub
+- Maven
+- Docker — em aprendizado
 
-## Direção profissional
+## Projetos
 
-Busco oportunidades de **Desenvolvedor Java, Desenvolvedor Backend ou Desenvolvedor de Software**, com preferência por trabalho remoto no Brasil e crescimento técnico.
+### Portfólio pessoal
 
-Meu foco de evolução é aprofundar o desenvolvimento de APIs com Spring Boot, persistência de dados, validações, testes automatizados e documentação.
+Portfólio desenvolvido com **Angular e TypeScript**, com identidade visual própria, animações cinematográficas e componentes interativos.
 
-[Entre em contato pelo LinkedIn](https://www.linkedin.com/in/matheus-espindola-dos-santos-704269197/)
+O projeto explora desenvolvimento frontend, responsividade, acessibilidade e experiência do usuário.
+
+[Conhecer o repositório](https://github.com/TissoSZ/tisso-portfolio)
+
+### ControleValidade
+
+Projeto acadêmico Android desenvolvido em **Java**, voltado à prática de formulários e validação de dados de produtos, incluindo categoria, armazenamento e seleção da data de validade.
+
+[Conhecer o repositório](https://github.com/TissoSZ/ControleValidade)
+
+## Formação acadêmica
+
+**Análise e Desenvolvimento de Sistemas**  
+Centro Universitário de Pato Branco — UNIDEP  
+2021–2024 · Concluído
+
+**Pós-graduação em Desenvolvimento de Software em Java**  
+Universidade Tecnológica Federal do Paraná — UTFPR  
+2025–2026 · Em andamento
+
+## Objetivos profissionais
+
+Tenho interesse em oportunidades de desenvolvimento **Java Backend e Full Stack**, especialmente em projetos que envolvam sistemas corporativos, APIs REST, persistência de dados e evolução de aplicações.
+
+Meu objetivo é aprofundar minha experiência com Spring Boot, arquitetura de software, testes e desenvolvimento de soluções bem estruturadas e sustentáveis.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/matheus-espindola-dos-santos-704269197/)
